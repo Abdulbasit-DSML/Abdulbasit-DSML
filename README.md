@@ -73,7 +73,7 @@ My goal is to grow into a **data-driven AI professional** with strong analytical
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Basit90-N">
+<a href="https://github.com/Abdulbasit-DSML">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
