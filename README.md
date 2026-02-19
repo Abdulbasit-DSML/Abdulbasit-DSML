@@ -55,6 +55,7 @@ Career Goals
 - Secure an **entry-level Data Analyst / Junior Data Scientist / ML Intern** role  
 
 Connect With Me
+
 <a href="https://www.linkedin.com/in/abdul-basit-shaikh-763924288">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
