@@ -1,10 +1,8 @@
-# Hi, I'm Abdul Basit 👋
+Hi, I'm Abdul Basit 
 
-### Artificial Intelligence Student | Aspiring Data Scientist | Beginner in Machine Learning
+Artificial Intelligence Student | Aspiring Data Scientist | Beginner in Machine Learning
 
----
-
-## 🚀 About Me
+About Me
 
 I'm a **2nd-year Artificial Intelligence student** at Szabist University  with a strong interest in **data science, data analysis, and beginner-level machine learning**.  
 I am currently building a solid foundation in **Python, statistics, and machine learning concepts** through structured learning and hands-on practice.
@@ -12,17 +10,13 @@ I am currently building a solid foundation in **Python, statistics, and machine 
 I enjoy working with data to extract insights, understand patterns, and explore how intelligent systems are built using real-world data.  
 My goal is to grow into a **data-driven AI professional** with strong analytical and problem-solving skills.
 
----
-
-## 🧠 What I'm Learning Right Now
+ What I'm Learning Right Now
 - Python for Data Science  
 - Data Cleaning & Exploratory Data Analysis (EDA)  
 - Statistics for Machine Learning  
 - Machine Learning (Beginner – Scikit-learn)
 
----
-
-## 🛠️ Languages & Tools
+Languages & Tools
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,27 +42,19 @@ My goal is to grow into a **data-driven AI professional** with strong analytical
 
 ---
 
-## 🔥 Featured Projects (In Progress)
+Featured Projects (In Progress)
+I am currently working on beginner-friendly **Data Science and Machine Learning projects**, including:
 
-> I am currently working on beginner-friendly **Data Science and Machine Learning projects**, including:
+-  Exploratory Data Analysis (EDA) on real datasets  
+-  Data Visualization projects  
+-  Beginner Machine Learning models (Regression & Classification)
 
-- 📊 Exploratory Data Analysis (EDA) on real datasets  
-- 📈 Data Visualization projects  
-- 🤖 Beginner Machine Learning models (Regression & Classification)
-
-*(Projects will be added as I complete them.)*
-
----
-
-## 🎯 Career Goals
+Career Goals
 - Build strong fundamentals in Data Science & Machine Learning  
 - Develop practical AI & data-driven projects  
 - Secure an **entry-level Data Analyst / Junior Data Scientist / ML Intern** role  
 
----
-
-## 📬 Connect With Me
-
+Connect With Me
 <a href="https://www.linkedin.com/in/abdul-basit-shaikh-763924288">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -81,5 +67,3 @@ My goal is to grow into a **data-driven AI professional** with strong analytical
   <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-
-⭐ *Learning today. Building for tomorrow.*
