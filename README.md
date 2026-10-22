@@ -1,12 +1,12 @@
 # Hi, I'm Abdul Basit 
 
-**AI Undergraduate **
+AI Undergraduate
 
-I am an Artificial Intelligence undergraduate at SZABIST with a strong focus on data forensics, exploratory data analysis, and predictive modeling.I mentor students in Computer Science, reinforcing core computing principles through structured problem-solving.
+I am an Artificial Intelligence undergraduate at SZABIST with a strong focus on data forensics, exploratory data analysis.I mentor students in Computer Science, reinforcing core computing principles through structured problem-solving.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tooling
 
 **Core Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,17 +17,23 @@ I am an Artificial Intelligence undergraduate at SZABIST with a strong focus on 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 **Tools, Platforms & GUI**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 📌 Featured Work
+### Featured Work
+
+### Teaching & Mentorship
+
+**Computer Science & ICT Educator** | *CS by Abdulbasit*
+- Mentoring international students in **Cambridge IGCSE & O-Level Computer Science (0478/2210)** and **ICT (0417)**.
+- Breaking down core computational thinking, pseudocode, algorithms, logic gates, and database fundamentals into structured, digestible lessons.
+- Authoring high-yield revision resources, technical notes, and exam-focused walkthroughs to simplify complex CS theory.
 
 - **Syllabus2Reality**: A forensic curriculum evaluation tool built with Python and Plotly to analyze academic syllabi against modern industry tech skill demands.
 - **TradeSense AI**: A generative AI market analysis application built on AWS PartyRock leveraging multi-modal chart and trend analysis.
@@ -35,14 +41,14 @@ I am an Artificial Intelligence undergraduate at SZABIST with a strong focus on 
 
 ---
 
-### 🎯 Current Focus
+### Current Focus
 - Production-ready data pipelines and feature engineering.
 - Supervised and unsupervised machine learning workflows with Scikit-learn.
 - Scalable cloud AI integrations and interactive data visualization.
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/abdul-basit-shaikh-763924288" target="_blank">
